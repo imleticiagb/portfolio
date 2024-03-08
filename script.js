@@ -24,3 +24,4 @@ menuIcon.onclick = () =>{
     menuIcon.classList.toggle('bx-x');
     navBar.classList.toggle('active');
 }
+
