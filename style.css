@@ -307,10 +307,10 @@ section{
 
 @keyframes words{
     0%, 40%{
-        content: 'estudante.';
+        content: 'dev fullstack.'; 
     }
     41%, 80%{
-        content: 'dev fullstack.';
+        content: 'estudante.';
     }
     81%, 100%{
         content: 'apaixonada por tecnologia.';
